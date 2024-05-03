@@ -22,4 +22,4 @@ Next Steps:
 Advanced Task (Bonus):
 Explore image segmentation using adapted coreset construction algorithms.
 Modify coreset construction for image data.
-Implement image segmentation using constructed coresets and compare results with original image segmentation
+Implement image segmentation using constructed coresets and compare results with original image segmentation.
